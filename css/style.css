@@ -1,0 +1,58 @@
+﻿
+body {
+	
+	
+}
+
+#one{
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	z-index:-1;
+}
+
+#one> img{
+	height:150%;
+	width:100%;
+	border:0;
+	
+}
+#aa{
+	margin-top:-8%;
+	margin-left:30%;
+	margin-bottom:;
+	margin-right:30%;
+}
+#two{
+	margin-top:20%;
+	margin-left:65%;
+	margin-bottom:;
+    margin-right:10%; 
+}
+#bb{
+	margin-top: 0%;
+	margin-left:2%;
+	margin-bottom:20;
+	margin-right:%;
+
+}
+#cc{
+	margin-top: -21%;
+	margin-left:2%;
+	margin-bottom:50;
+	margin-right:%;
+}
+h1{
+	color: white;
+}
+	
+
+p {
+	
+	color: white;
+}
+p.rowtwo{
+	color: cyan;
+}
